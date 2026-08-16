@@ -1,0 +1,10 @@
+{
+  "description": "Engaging language learning platform designed for students and adults, offering interactive methods like games and dialogues to make mastering languages enjoyable.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
